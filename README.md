@@ -6,5 +6,5 @@ Snake game with ASCII characters in C.
 
 ## Notice
 It depends on ASNSI code interpretation of your terminal.  
-Works on Linux and most likey macOS. It is not expected to work on Windows.
-Copy it for your homework assignment.
+Works on Linux and most likey macOS. It is not expected to work on Windows.  
+Copy it for your homework assignment.  
