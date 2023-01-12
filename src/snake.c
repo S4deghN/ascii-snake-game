@@ -1,7 +1,5 @@
 /*
  * Created on December 21 2022
- * Author: Sadegh Nobakhti
- *
  * Free to copy for your homework assignment.
  *
  */
